@@ -1,0 +1,5 @@
+C:\Users\guilh\source\repos\PingLoL\PingLoL\bin\Release\net5.0-windows\publish\PingLoL.exe
+C:\Users\guilh\source\repos\PingLoL\PingLoL\bin\Release\net5.0-windows\publish\PingLoL.dll
+C:\Users\guilh\source\repos\PingLoL\PingLoL\bin\Release\net5.0-windows\publish\PingLoL.deps.json
+C:\Users\guilh\source\repos\PingLoL\PingLoL\bin\Release\net5.0-windows\publish\PingLoL.runtimeconfig.json
+C:\Users\guilh\source\repos\PingLoL\PingLoL\bin\Release\net5.0-windows\publish\PingLoL.pdb
